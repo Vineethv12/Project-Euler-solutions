@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 # range = 1000
 #multiples = 3&5
 #sum of multiples
