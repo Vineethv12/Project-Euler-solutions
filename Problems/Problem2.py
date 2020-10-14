@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 numbers = [1,2]
 sum = 0
 for i in range(4000000):
